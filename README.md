@@ -11,7 +11,7 @@ npm install --save @doosterling/use-shopify
 ```
 
 ## Demo
-A simple example can be found in the `./example` folder, a more extensive [demo](https://trusting-swirles-fca8d6.netlify.app/) can be found [here](https://trusting-swirles-fca8d6.netlify.app/) 
+A simple example can be found in the `./example` folder, there is also a more extensive [demo](https://trusting-swirles-fca8d6.netlify.app/) and the repo can be found [here](https://github.com/DennisOosterling/use-shopify-example) 
 
 
 ## Usage
