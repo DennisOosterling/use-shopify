@@ -5,11 +5,12 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "@doosterling/use-shopify": "link:..",
     "prop-types": "^15.6.2",
     "react": "link:../node_modules/react",
     "react-dom": "^16.9.0",
     "react-scripts": "^3.0.1",
-    "@doosterling/use-shopify": "link:.."
+    "shopify-buy": "^2.10.0"
   },
   "scripts": {
     "start": "react-scripts start",

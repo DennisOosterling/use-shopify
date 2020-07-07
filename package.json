@@ -1,6 +1,6 @@
 {
   "name": "@doosterling/use-shopify",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "React hooks for shopify buy sdk",
   "author": "DennisOosterling",
   "license": "MIT",
@@ -22,7 +22,8 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.9.0"
+    "react": "^16.9.0",
+    "react-use": "^15.3.2"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
