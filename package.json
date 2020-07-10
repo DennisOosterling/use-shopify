@@ -1,6 +1,6 @@
 {
   "name": "@doosterling/use-shopify",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "React hooks for shopify buy sdk",
   "author": "DennisOosterling",
   "license": "MIT",
